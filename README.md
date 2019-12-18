@@ -1,5 +1,8 @@
 # Back Propogation Neural Network
 
+Project description : http://ranger.uta.edu/~kamangar/CSE-5368-FA18/Assignment05(Duedate.Nov.18,2018).html
+
+
 The purpose of the this assignment is to practice with back-propagation neural networks.
 
 ## __Description__
